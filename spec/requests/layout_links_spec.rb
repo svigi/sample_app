@@ -71,7 +71,7 @@ describe "when signed in" do
                                          :content => "Profile")
     end
 
-	end
+end
 
   
 end
