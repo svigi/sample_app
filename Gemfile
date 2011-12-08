@@ -19,4 +19,5 @@ group :test do
   gem 'autotest-rails-pure', '4.1.2'
   gem 'autotest-growl', '0.2.9'
   gem 'factory_girl_rails', '1.0'
+  gem 'spork', '0.9.0.rc8'  
 end
