@@ -53,7 +53,6 @@ describe RelationshipsController do
         response.should be_redirect
       end.should change(Relationship, :count).by(-1)
     end
-	
 
     it "should destroy a relationship using Ajax" do
       lambda do
